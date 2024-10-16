@@ -5,20 +5,29 @@ Step into the role of a Digital Marketing Analyst or SEO Analyst at Guvi or anot
 
 🎯 Project Objectives:
 1.Learn Digital Marketing Principles: Focus on website and landing page design.
+
 2.Build a Strong Web Presence: Understand the inner workings and design principles of websites.
+
 3.Hands-On Experience: Create landing pages using tools like Figma, HubSpot, or Canva to generate leads and boost brand awareness.
 
 🛠️ Project Tasks:
 1.Company Selection: Choose a company (e.g., CARS24) and provide a short description.
+
 2.Product/Service Descriptions: Write concise descriptions for 3-5 products or services.
+
 3.Platform Identification: Determine the website platform using online tools.
+
 4.Responsive Design Testing: Test mobile optimization across 5 pages and share findings.
+
 5.Website Mistakes Identification: Identify and suggest fixes for at least 5 design issues (e.g., clutter, slow load times).
+
 6.Best Practices List: Provide actionable tips for user-friendly web design.
+
 7.Landing Page Design: Create a landing page mockup to increase brand awareness or drive leads.
 
 📦 Project Deliverables:
 1.Presentation Slides: Summarize tasks, findings, and recommendations.
+
 2.Landing Page Design: Share the landing page mockup you created.
 
 🏁 Conclusion:
