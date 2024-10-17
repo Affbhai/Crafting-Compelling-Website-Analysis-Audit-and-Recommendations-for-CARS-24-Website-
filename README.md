@@ -26,6 +26,7 @@ Step into the role of a Digital Marketing Analyst or SEO Analyst at Guvi or anot
 7.Landing Page Design: Create a landing page mockup to increase brand awareness or drive leads.
 
 📦 Project Deliverables:
+
 1.Presentation Slides: Summarize tasks, findings, and recommendations.
 
 2.Landing Page Design: Share the landing page mockup you created.
